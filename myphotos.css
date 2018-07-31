@@ -1,0 +1,36 @@
+body{
+	background-image:url("wood2.jpg");
+	background-attachment:fixed;
+	background-position: top left;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.bb{
+
+	border-style:solid;
+	border-color:black;
+	border-width:1px;
+	width:31%;
+	display:inline-block;
+	padding: 10px;
+	background:rgba(255,255,255,.5);
+}
+
+#boxes:hover .bb{
+	opacity:1;
+	background-color:rgba(252,209,42,.7);
+}
+
+img{
+
+    object-fit:cover;
+	height:270px;
+	width:395px;
+}
+
+h1{
+	text-align: center;
+	color:rgb(252,209,42);
+}
+

@@ -1,0 +1,69 @@
+ #details
+{
+	background-color:lightblue;
+	border-style:solid;
+	border-color:white;
+	width:1140px;
+	height:410px;
+	line-height: 1.8em;
+	font-family: 'Lustria', serif;
+	text-indent:3.0em;
+	padding:20px;
+    border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+#page-content{
+	margin-left:40px;
+}
+
+h1{
+	text-align:center;
+	background-color:lightgray;
+	letter-spacing:0.4em;
+	font-family: 'Lustria', serif;
+	text-shadow:2px 2px gray;
+	border-top-left-radius: 20px;
+	border-top-right-radius:20px;
+	width:1180px;
+	height:50px;
+}
+
+.logo{
+	margin-left:50px;
+	float:left;
+
+}
+
+.top-nav-item:hover{
+	background-color:rgba(234, 140, 9, .6);
+}
+
+#top-nav{
+	text-align:right;
+
+}
+
+.top-nav-item{
+	margin:20px;
+	text-decoration :none;
+	color:black;
+}
+
+#currentpage{
+	
+	border-bottom:1.3px solid black;
+}
+
+
+table, td, th{
+	border: 1px solid black;
+	margin:auto;
+	width: 90%;
+}
+
+td, th {
+	width:30%;
+}
+
+

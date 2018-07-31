@@ -1,0 +1,67 @@
+
+body{
+	background-image:url("cover.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.logo{
+   margin-left:50px;
+	float:left;
+}
+
+.top-nav-item:hover{
+	background-color:rgba(234, 140, 9, .8);
+}
+
+#top-nav{
+	text-align:right;
+
+}
+
+.top-nav-item{
+	margin:20px;
+	text-decoration :none;
+	color:white;
+}
+
+#currentpage{
+	 border-bottom:1.3px solid white;
+}
+
+h1{
+	border-color:lightblue;
+	text-align:center;
+	background-color:lightgray;
+	letter-spacing:0.4em;
+	font-family: 'Lustria', serif;
+	text-shadow:2px 2px gray;
+	border-top-left-radius: 20px;
+	border-top-right-radius:20px;
+	height:50px;
+	
+
+}
+
+#box {
+
+	border-style:solid;
+	border-color:lightblue;
+	display:inline-block;
+	background:rgba(255,255,255,.5);
+	height:300px;
+	font-size:1.5em;
+	padding:20px;
+}
+
+.box1{
+	width:1900px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,116 @@
+/* #details
+{
+	background-color:lightblue;
+	border-style:solid;
+	border-color:white;
+	width:1140px;
+	height:410px;
+	line-height: 1.8em;
+	font-family: 'Lustria', serif;
+	text-indent:3.0em;
+	padding:20px;
+    border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+#page-content{
+	margin-left:40px;
+}
+
+h1{
+	text-align:center;
+	background-color:lightgray;
+	letter-spacing:0.4em;
+	font-family: 'Lustria', serif;
+	text-shadow:2px 2px gray;
+	border-top-left-radius: 20px;
+	border-top-right-radius:20px;
+	width:1180px;
+	height:50px;
+}
+
+
+
+.logo{
+	margin-left:50px;
+	float:left;
+
+}
+
+.top-nav-item:hover{
+	color:blue;
+}
+
+#top-nav{
+	text-align:right;
+
+}
+
+.top-nav-item{
+	margin:20px;
+	text-decoration :none;
+	color:black;
+}
+
+#currentpage{
+	
+	border-bottom:1.3px solid black;
+}
+*/
+
+ol{
+	margin-left:330px;
+}
+
+
+.info{
+	border-style: solid;
+	border-color:rgb(61,86,90);
+	border-width:0.5px;
+	width:200px;
+	height:200px;
+
+}
+
+#tab3{
+	 float: left;
+     width: 30%;
+     padding: 5px;
+     margin:7px;
+     box-shadow: 5px 5px rgb(153, 149, 145);
+     background-color:rgb(214, 100, 38);
+}
+
+#tab2{
+	 float: left;
+     width: 30%;
+     padding: 5px;
+     margin:7px;
+     box-shadow: 5px 5px rgb(153, 149, 145);
+     background-color: rgb(234, 140, 9);
+}
+
+#tab1{
+	 float: left;
+     width: 30%;
+     padding:5px;
+     margin:7px;
+     margin-left:35px;
+     box-shadow: 5px 5px rgb(153, 149, 145);
+     background-color: rgb(216, 110, 23);
+}
+
+.picture{
+	margin-right:40px;
+	box-shadow: 10px 10px gray;
+	float:left;
+	border-style:solid;
+	border-color:rgb(61,86,90);
+	border-width: 1px;
+}
+
+.fun{
+	padding:15px;
+	line-height:1.6em;
+	font-size:1.2em;
+}

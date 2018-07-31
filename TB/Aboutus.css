@@ -1,0 +1,43 @@
+.boxes{
+   border-style:solid;
+   border-color:red;
+   display:inline-block;
+   width:240px;
+   height:370px;
+   margin:58px;
+}
+
+#box1{
+	margin-left:110px;
+}
+
+body{
+	background-color:lightblue;
+}
+
+.all, h3{
+	text-align:center;
+}
+ .images{
+  object-fit:cover;
+ 	height:307px;
+ 	width:240px;
+ }  
+
+#box4{
+  margin-left:330px;
+}
+
+h1{
+
+  background-color:rgb(205,92,92);
+  border-top-left-radius: 20px;
+  border-top-right-radius:20px;
+  height:50px;
+
+}
+
+#alltext{
+   margin-left:34px;
+    width:1180px;
+}

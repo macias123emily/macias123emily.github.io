@@ -1,0 +1,100 @@
+.boxes{
+   border-style:solid;
+   border-color:red;
+   display:inline-block;
+   width:250px;
+   height:658px;
+   margin: 41px;
+   background:rgba(255,255,255,.5);
+
+ }
+
+#box1{
+	margin-left:140px;
+}
+
+body{
+	background-color:rgb(131,155,193);
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.all, h3{
+	text-align:center;
+}
+ .images{
+  object-fit:cover;
+ 	height:311px;
+ 	width:250px;
+  
+ }  
+
+#box4{
+  margin-left:350px;
+}
+
+h1{
+
+  background-color:rgba(255,255,255,.5);
+  height:110px;
+  font-size:4em;
+  text-shadow: 1px 1px gray;
+
+}
+
+#alltext{
+    margin-left:34px;
+    width:1180px;
+ 
+}
+
+
+#behind{
+
+  height:400px;
+  width:80%;
+  margin-left:120px;
+  background-image:url("doctor.jpg");
+  background-attachment:fixed;
+  background-position: top left;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+#big{
+  font-size:1.7em;
+  padding:75px;
+  font-weight:bold;
+}
+
+#currentpage{
+  border-bottom: .1em solid black;
+}
+.top_nav_item{
+  color:rgb(34, 51, 79);
+  font-size : 1.6em;
+  text-decoration: none;
+  margin: 10px;
+}
+.top_nav_item:hover {
+  color: rgb(250, 250, 250);
+  font-size : 1.6em;
+  text-decoration: none;
+  margin: 5px;
+}
+#top_nav{
+  text-align:right;
+  padding: 1.5em;
+}
+
+p{
+  padding:10px;
+}
+
+
+h4{
+  text-align: center;
+}
+
+#logo{
+  float:left;
+}
